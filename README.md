@@ -1,4 +1,4 @@
-# SP3 - FrontEnd
+# Sprint 3 - FrontEnd
 
 ## Integrantes
 - Davi Daparé RM: 560721
