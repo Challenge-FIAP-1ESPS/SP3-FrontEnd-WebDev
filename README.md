@@ -32,3 +32,6 @@ O portal é feito em HTML, CSS e JS, contendo formulário, animações e um esti
 - **Área de Login e Cadastro:** O paciente e os funcionários do hospital terão um login e senha para entrar no portal. Isso permite a segurança e personalização das informações armazenadas.
 - **Automatização de Processos:** No portal, é possível fazer qualquer atividade do setor hospitalar que envolva a enfermaria, medicina, farmácia, limpeza, manutenção e administração. 
 - **Chatbot:** Desenvolvimento de Chatbot para facilitar a comunicação entre as áreas.
+
+## Anexos
+ADICIONAR ALGUMAS FOTOS
