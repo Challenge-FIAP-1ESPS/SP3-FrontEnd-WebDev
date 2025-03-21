@@ -14,6 +14,10 @@ O portal digital foi desenvolvido para integrar médicos, pacientes e equipes de
 ## Especificações Técnicas
 O portal é feito em HTML, CSS e JS, contendo formulário, animações e um estilo baseado na paleta de cores do Hospital. Com o avanço do projeto, algumas novas tecnologias estão sendo utilizadas, como o Bootstrap. Além disso, nosso portal é totalmente responsivo, com o intuito de garantir a melhor experiência do usuário.
 
+## Link Figma
+Esse link direciona para as nossas telas e protótipo desde o início da elaboração do projeto. Além disso, contém um moodboard que foi essencial para capturar a essência e identidade do Hospital Sabará.
+https://www.figma.com/design/ARpK4Bxm9aG95z7OSwDuCq/Challenge-Front%2FWeb?node-id=72-432&p=f&t=4SYIU1DYwyspodX4-0 
+
 ## Funcionalidades
 - **Comunicação Eficiente:** Canal centralizado entre médicos, pacientes e equipes.
 - **Automatização de Processos:** Agendamento de consultas, registros médicos e controle de medicamentos.
