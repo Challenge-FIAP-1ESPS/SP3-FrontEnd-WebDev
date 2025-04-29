@@ -38,4 +38,5 @@ https://www.figma.com/design/ARpK4Bxm9aG95z7OSwDuCq/Challenge-Front%2FWeb?node-i
 - **Chatbot:** Desenvolvimento de Chatbot para facilitar a comunicação entre as áreas.
 
 ## Anexos
-ADICIONAR ALGUMAS FOTOS
+### Observações: 
+Ajustes já estão sendo feitos em relação à interatividade e design.
