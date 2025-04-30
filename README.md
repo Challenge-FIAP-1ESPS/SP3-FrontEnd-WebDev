@@ -16,7 +16,7 @@ O portal digital foi desenvolvido para integrar médicos, pacientes e equipes de
 O portal é feito em HTML, CSS e JS, contendo formulário, animações e um estilo baseado na paleta de cores do Hospital. Com o avanço do projeto, algumas novas tecnologias estão sendo utilizadas, como o Bootstrap. Além disso, nosso portal é totalmente responsivo, com o intuito de garantir a melhor experiência do usuário.
 
 ### WebDev
-Com o avanço do projeto, algumas novas tecnologias estão sendo utilizadas, como a transição para o React + Vite. Além disso, o portal utiliza o localstorage para tratamento de dados, operações matemáticas (Math), entre outros recursos de JavaScript. Em termos de estilo, segue a paleta do Hospital Sabará, sendo altamente responsivo e personalizável.
+Com o avanço do projeto, algumas novas tecnologias estão sendo utilizadas, como a transição para o React + Vite. Além disso, o portal utiliza o localstorage para tratamento de dados, operações matemáticas (Math), entre outros recursos de JavaScript. 
 
 ## Link Figma
 Esse link direciona para as nossas telas e protótipo desde o início da elaboração do projeto. Além disso, contém um moodboard que foi essencial para capturar a essência e identidade do Hospital Sabará.
