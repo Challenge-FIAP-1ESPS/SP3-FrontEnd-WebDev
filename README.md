@@ -1,4 +1,4 @@
-# Sprint 3 - FrontEnd
+# Sprint 3 - FrontEnd & WebDev
 
 ## Integrantes
 - Davi Daparé RM: 560721
@@ -12,7 +12,11 @@
 O portal digital foi desenvolvido para integrar médicos, pacientes e equipes de apoio (limpeza, farmácia, manutenção e administração) do Hospital Sabará. A solução visa resolver problemas como falhas na comunicação, atrasos nos agendamentos, dificuldade no acesso a informações e ineficiência nos processos administrativos, trazendo uma maior organização e eficiência para o hospital.
 
 ## Especificações Técnicas
+### Front-End
 O portal é feito em HTML, CSS e JS, contendo formulário, animações e um estilo baseado na paleta de cores do Hospital. Com o avanço do projeto, algumas novas tecnologias estão sendo utilizadas, como o Bootstrap. Além disso, nosso portal é totalmente responsivo, com o intuito de garantir a melhor experiência do usuário.
+
+### WebDev
+Com o avanço do projeto, algumas novas tecnologias estão sendo utilizadas, como a transição para o React + Vite. Além disso, o portal utiliza o localstorage para tratamento de dados, operações matemáticas (Math), entre outros recursos de JavaScript. Em termos de estilo, segue a paleta do Hospital Sabará, sendo altamente responsivo e personalizável.
 
 ## Link Figma
 Esse link direciona para as nossas telas e protótipo desde o início da elaboração do projeto. Além disso, contém um moodboard que foi essencial para capturar a essência e identidade do Hospital Sabará.
@@ -23,7 +27,6 @@ https://www.figma.com/design/ARpK4Bxm9aG95z7OSwDuCq/Challenge-Front%2FWeb?node-i
 - **Automatização de Processos:** Agendamento de consultas, registros médicos e controle de medicamentos.
 - **Acesso Centralizado:** Interface para prontuários, relatórios e atualizações em tempo real.
 - **Eficiência Operacional:** Redução de erros administrativos e otimização de tempo.
-- **Gamificação:** Atividades interativas para crianças, tornando o ambiente mais acolhedor.
 
 ## Benefícios
 - **Para Pacientes e Familiares:** Comunicação direta com médicos, acompanhamento de tratamentos e acesso a resultados.
@@ -37,6 +40,5 @@ https://www.figma.com/design/ARpK4Bxm9aG95z7OSwDuCq/Challenge-Front%2FWeb?node-i
 - **Automatização de Processos:** No portal, é possível fazer qualquer atividade do setor hospitalar que envolva a enfermaria, medicina, farmácia, limpeza, manutenção e administração. 
 - **Chatbot:** Desenvolvimento de Chatbot para facilitar a comunicação entre as áreas.
 
-## Anexos
 ### Observações: 
 Ajustes já estão sendo feitos em relação à interatividade e design.
