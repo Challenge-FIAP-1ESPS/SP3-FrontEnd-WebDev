@@ -1,4 +1,4 @@
-# Challenge FrontEnd-WebDev 
+# Sprint 3 - FrontEnd & WebDev 
 ## Portal Digital para o Hospital Sabará
 
 ## Integrantes
@@ -10,7 +10,6 @@
 
 ## Visão Geral
 O portal digital foi desenvolvido para integrar médicos, pacientes e equipes de apoio (limpeza, farmácia, manutenção e administração) do Hospital Sabará. A solução visa resolver problemas como falhas na comunicação, atrasos nos agendamentos, dificuldade no acesso a informações e ineficiência nos processos administrativos, trazendo uma maior organização e eficiência para o hospital.
-
 
 ## Como acessar?
 **Usar seu IDE preferido**
@@ -35,7 +34,6 @@ npm i
 npm run dev
 ```
 
-
 ## Funcionalidades
 - **Comunicação Eficiente:** Canal centralizado entre médicos, pacientes e equipes.
 - **Automatização de Processos:** Agendamento de consultas, registros médicos e controle de medicamentos.
@@ -50,9 +48,11 @@ npm run dev
 - **Para Gestores:** Relatórios para decisões rápidas e gestão de recursos otimizada.
 
 ## Detalhes do Projeto
-- **Prazo:** 6 meses (desenvolvimento, testes e implementação).
-- **Orçamento:** R$ 1.000.000,00 (desenvolvimento, infraestrutura e treinamento).
-- **Exclusões:** Não inclui novos equipamentos ou infraestrutura além do que já existe no hospital.
+### Front End
+Nessa entrega, adaptamos o projeto da SPRINT anterior com algumas modificações e melhorias: mantivemos o uso da HTML semântica, utilizamos bootstrap e refinamento da responsividade.  
+
+### Web Dev 
+Desenvolvemos um projeto em React que possui a estrutura de componentes, utilizamos **localstorage** para tratamento de dados, **operações usando Math**, desestruturação entre outros recursos de **JavaScript em react**, e a paleta de cores é referente ao Hospital Sabará.
 
 ## Conclusão
 O portal digital do Hospital Sabará é uma solução inovadora que melhora a comunicação, automação e a eficiência dos processos internos, proporcionando benefícios diretos a todos os envolvidos e um atendimento hospitalar mais organizado e eficiente.
@@ -62,9 +62,6 @@ O portal digital do Hospital Sabará é uma solução inovadora que melhora a co
 - **Área de Login e Cadaastro:** O paciente e os funcionários do hospital terão um login e senha para entrar no portal. Isso permite a segurança e personalização das informações armazenadas.
 - **Automatização de Processos:** No portal, é possível fazer qualquer atividade do setor hospitalar que envolva a enfermaria, medicina, farmácia, limpeza, manutenção e administração. 
 - **Chatbot:** Desenvolvimento de Chatbot para facilitar a comunicação entre as áres.
-
-### Extras
-#### Com o intuito de explicar e demonstrar a solução de uma forma visual e intuitiva, desenvolvemos uma landing page. Inclusive, ela contém 6 seções, incluindo as dores e como a nossa solução impacta positivamente no projeto.
 
 ## Link Figma 
 https://www.figma.com/design/ARpK4Bxm9aG95z7OSwDuCq/Challenge-Front%2FWeb?node-id=31-2143&node-type=frame&t=pgUWSvFfX7D8HWPc-
